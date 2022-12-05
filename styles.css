@@ -14,7 +14,8 @@ body {
   background: #eee;
 }
 
-.cards {
-  /* display: flex; */
-
+form {
+  margin: auto;
+  width: 400px;
+  padding: 20px;
 }
